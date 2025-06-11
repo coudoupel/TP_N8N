@@ -38,10 +38,9 @@ Notification
     
 -   On extrait les liens valides qui correspondent à des articles en utilisant un filtre CSS sur les balises `<a>`.
     
+```python
+soup.select("a[href^='/misc/misc-139/']")``` 
 
-python
-`soup.select("a[href^='/misc/misc-139/']")` 
-python
 
 ----------
 
