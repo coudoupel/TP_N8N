@@ -1,0 +1,9 @@
+https://connect.ed-diamond.com/misc/misc-139/exploitation-du-chiffrement-du-framework-php-laravel
+https://connect.ed-diamond.com/misc/misc-139/analyse-de-malware-assistee-par-intelligence-artificielle
+https://connect.ed-diamond.com/misc/misc-139/explorer-la-distribution-de-malwares-via-la-navigation-sur-le-web
+https://connect.ed-diamond.com/misc/misc-139/retour-d-experience-sur-la-conformite-dora
+https://connect.ed-diamond.com/misc/misc-139/desossage-d-api-l-exemple-de-snapchat
+https://connect.ed-diamond.com/misc/misc-139/renforcer-la-securite-de-vos-connexions-rdp-avec-une-yubikey
+https://connect.ed-diamond.com/misc/misc-139/en-quoi-l-identification-des-risques-faconne-t-elle-le-devsecops
+https://connect.ed-diamond.com/misc/misc-139/breves-misc
+https://connect.ed-diamond.com/misc/misc-139/edito
