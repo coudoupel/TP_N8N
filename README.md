@@ -63,9 +63,9 @@ soup.select("a[href^='/misc/misc-139/']")
 -   Un prompt est envoyé au modèle `gpt-3.5-turbo` pour générer un résumé synthétique.
     
 
-python
-`prompt = f"Voici le contenu d’un article technique. Résume-le..."` 
-python
+```python
+prompt = f"Voici le contenu d’un article technique. Résume-le..."` 
+```
 
 ----------
 
@@ -73,10 +73,9 @@ python
 
 -   Format du message :
     
-    less
-    
+    ```less
     `**Nouvel  article  analysé :** [Titre]  [Lien]  **Résumé IA :** [Résumé généré]`
-    less
+    ```
     
 -   Utilise l’URL Webhook pour la publication dans un canal Discord.
     
@@ -116,12 +115,12 @@ python
 
 ## Organisation des fichiers
 
-text
+```text
 `project/
 │
 ├── main.py               # Script principal
 ├── articles_envoyes.txt  # Liste des articles déjà traités`
-text
+```
 
     
 
