@@ -41,6 +41,7 @@ Notification
 
 python
 `soup.select("a[href^='/misc/misc-139/']")` 
+python
 
 ----------
 
@@ -64,6 +65,7 @@ python
 
 python
 `prompt = f"Voici le contenu d’un article technique. Résume-le..."` 
+python
 
 ----------
 
@@ -73,7 +75,8 @@ python
     
     less
     
-    `**Nouvel  article  analysé :** [Titre]  [Lien]  **Résumé IA :** [Résumé généré]` 
+    `**Nouvel  article  analysé :** [Titre]  [Lien]  **Résumé IA :** [Résumé généré]`
+    less
     
 -   Utilise l’URL Webhook pour la publication dans un canal Discord.
     
@@ -117,7 +120,8 @@ text
 `project/
 │
 ├── main.py               # Script principal
-├── articles_envoyes.txt  # Liste des articles déjà traités` 
+├── articles_envoyes.txt  # Liste des articles déjà traités`
+text
 
     
 
